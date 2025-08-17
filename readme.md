@@ -24,4 +24,3 @@ The project uses three datasets:
 - **Clustering**: Optimal 3 clusters identified with a Davies-Bouldin Index of 0.7686 and Silhouette Score of 0.4148. Cluster sizes: {2: 91, 1: 70, 0: 38}.
 - **Lookalike Model**: Generated recommendations for similar customers using cosine similarity, saved in `reports/lookalike.csv`.
 
-## Repository Structure
